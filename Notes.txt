@@ -1,2 +1,3 @@
 Notes in main
 note in integration
+note in feature one
